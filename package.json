@@ -1,0 +1,10 @@
+{
+  "name": "com.readyplayerme.animationlibrary",
+  "version": "1.0.0",
+  "displayName": "Ready Player Me Animation Library",
+  "description": "Ready Player Me animation library convert to unity package format",
+  "author": "Ready Player Me",
+  "contributors": [
+    "Filament Games"
+  ]
+}
